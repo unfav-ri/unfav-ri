@@ -40,17 +40,22 @@ Espero que tenha gostado! Sinta-se à vontade para entrar em contato comigo.
 
 Tutorial para mandar os arquivos via git
 
-crie um novo repositório na linha de comando
-
 git init
-git add README.md
-git commit -m "primeiro commit"
+
+git add .
+
+git commit -m "comentario"
+
 git branch -M master
+
 git remote add origin [URL_do_repositorio]
+
 git push -u origin master
 
 Ou envie um repositório existente da linha de comando
 
 git remote add origin [URL_do_repositorio]
+
 git branch -M master
+
 git push -u origin master
