@@ -37,25 +37,3 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 ---
 
 Espero que tenha gostado! Sinta-se à vontade para entrar em contato comigo.
-
-Tutorial para mandar os arquivos via git
-
-git init
-
-git add .
-
-git commit -m "comentario"
-
-git branch -M master
-
-git remote add origin [URL_do_repositorio]
-
-git push -u origin master
-
-Ou envie um repositório existente da linha de comando
-
-git remote add origin [URL_do_repositorio]
-
-git branch -M master
-
-git push -u origin master
