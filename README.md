@@ -1,4 +1,4 @@
-# oi 👋
+# Oi 👋
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="700">
@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-Eu sou um estudante de Engenharia de Computação apaixonado por tecnologia e inovação. Com uma curiosidade incessante, estou sempre buscando aprender e explorar novas áreas da computação.
+Como estudante entusiasta de Engenharia de Computação, minha paixão pela tecnologia e inovação molda minha visão figurativa do tempo e espaço, simbolizando horizontes inexplorados. Persevero constantemente na busca pelo aprimoramento pessoal, desafiando meus próprios limites, pois acredito que aquele que se propõe a superar desafios é quem mais evolui.
 
 ---
 
@@ -31,7 +31,10 @@ Aqui estão algumas das tecnologias com as quais trabalho:
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img align="center" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 </div>
 
 ---
