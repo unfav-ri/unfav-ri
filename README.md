@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-Como estudante entusiasta de Engenharia de Computação, minha paixão pela tecnologia e inovação molda minha visão figurativa do tempo e espaço, simbolizando horizontes inexplorados. Persevero constantemente na busca pelo aprimoramento pessoal, desafiando meus próprios limites, pois acredito que aquele que se propõe a superar desafios é quem mais evolui.
+Meu nome é Ricardo, porém meus amigos me chamam de "Ri". Sou estudante de engenharia da computação, amante do cosmos. Tenho como filme preferido "Interestelar". Gosto de ouvir música, porém prefiro o completo silêncio ao pensar em soluções complexas que exigem uma abordagem mais precisa. Sou desenvolvedor FullStack e ao entrar em meus repositórios, poderão ver alguns projetos nos quais me diverti trabalhando. Não tenho nada sério aqui, apenas alguns códigos que aumentaram minha serotonina.
 
 ---
 
@@ -16,6 +16,7 @@ Conecte-se comigo para acompanhar meu trabalho e interagir com conteúdo relacio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unic-ri/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/unic_ri)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/210427541956198400)
 
 ---
 
