@@ -14,7 +14,7 @@ Como estudante entusiasta de Engenharia de Computação, minha paixão pela tecn
 
 Conecte-se comigo para acompanhar meu trabalho e interagir com conteúdo relacionado à Engenharia de Computação!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unfav-ri/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unic-ri/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/unic_ri)
 
 ---
