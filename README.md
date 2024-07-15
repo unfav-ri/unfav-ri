@@ -15,8 +15,6 @@ Meu nome é Ricardo, porém meus amigos me chamam de "Ri". Sou estudante de enge
 Conecte-se comigo para acompanhar meu trabalho e interagir com conteúdo relacionado à Engenharia de Computação!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rgoncalves-sp/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/unfav_ri)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/210427541956198400)
 
 ---
 
