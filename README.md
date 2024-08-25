@@ -6,13 +6,13 @@
 
 ## Sobre mim
 
- Sou estudante de Engenharia da Computação e um amante do cosmos. Meu filme preferido é "Interestelar". Gosto de ouvir música, mas prefiro o completo silêncio ao pensar em soluções complexas que exigem uma abordagem precisa. Atuo como desenvolvedor backend, e em meus repositórios no GitHub, você encontrará alguns projetos nos quais me diverti trabalhando. Não há nada muito sério aqui, apenas códigos que aumentaram minha serotonina.
+ Sou estudante de Engenharia da Computação e um amante do cosmos. Meu filme preferido é "Interestelar". Gosto de ouvir música, mas prefiro o completo silêncio ao pensar em soluções complexas que exigem uma resolução mais complexa. Atuo como desenvolvedor backend, e em meus repositórios, tem alguns projetos nos quais me diverti desenvolvendo. Não há nada muito sério aqui, apenas códigos que me fizeram feliz por um momento.
 
 ---
 
 ## 🌐 Redes Sociais
 
-Conecte-se comigo para acompanhar meu trabalho e interagir com conteúdo relacionado à Engenharia de Computação!
+Conecte-se comigo para acompanhar meu trabalho!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rgoncalves-sp/)
 
@@ -33,4 +33,4 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 ---
 
-Espero que tenha gostado! Sinta-se à vontade para entrar em contato comigo.
+Espero que tenha gostado!
